@@ -9,5 +9,5 @@
 
 - 体魄
 
-  - [Hypertension](Hypertension.md)
+  - [Hypertension](hypertension.md)
   - [Slipped Disc](slipped.md)

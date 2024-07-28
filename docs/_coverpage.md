@@ -11,5 +11,5 @@
 - 君子坦荡荡，小人长戚戚 《论语·述而》
 - 修身齐家治国平天下 《大学》
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/mjieke/wellness)
+[Get Started](#breath)

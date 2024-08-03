@@ -28,6 +28,7 @@
 24. [劳逸结合](#劳逸结合)
 25. [围城](#围城)
 26. [自我](#自我)
+27. [人](#人)
 
 ## 随想
 
@@ -336,3 +337,7 @@ The limits of my language mean the limits of my world.
 
 Your time is limited，so don\`t waste it living someone else`s life.
 ——乔布斯
+
+## 人
+
+人有点不爱回消息又期待别人多发消息的罪恶感。--抖音

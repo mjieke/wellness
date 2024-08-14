@@ -11,3 +11,4 @@
 
   - [Hypertension](hypertension.md)
   - [Slipped Disc](slipped.md)
+  - [Hair](hair.md)

@@ -4,6 +4,7 @@
 
 - 心理
 
+  - [Life](life.md)
   - [Motto](motto.md)
   - [Psychological](psychological.md)
 

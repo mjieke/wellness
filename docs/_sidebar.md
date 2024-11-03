@@ -13,3 +13,7 @@
   - [Hypertension](hypertension.md)
   - [Slipped Disc](slipped.md)
   - [Hair](hair.md)
+
+- 能力
+
+  - [skill](skill.md)
